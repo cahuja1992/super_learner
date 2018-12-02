@@ -26,6 +26,12 @@ Here is an outline of the tasks involved in training and testing a Super Learner
 
 ```python src/stacked_learner.py```
 
+## TODO:
+* More Loss function support
+* Custom Loss function support
+* More optimization and algorithm support
+* Release as an API
+
 
 ## Reference
 * http://docs.h2o.ai/h2o-tutorials/latest-stable/tutorials/ensembles-stacking/index.html
